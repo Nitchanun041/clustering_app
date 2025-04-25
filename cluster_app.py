@@ -47,3 +47,4 @@ ax.legend()
 
 # Show plot
 st.pyplot(fig)
+
